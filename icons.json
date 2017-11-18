@@ -69,7 +69,7 @@
     "svg": "av/svg/production/ic_replay_48px.svg"
   }, {
     "name": "facebook",
-    "svg": "facebook.svg",
+    "svg": "facebook-official.svg",
     "root-dir": "./custom-icons/fontawesome/"
   }, {
     "name": "gplus",
